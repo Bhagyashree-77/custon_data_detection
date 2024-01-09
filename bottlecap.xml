@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<bottlecap type_id="opencv-haar-classifier">
+  <size>
+    60 60</size>
+  <stages>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  16 2 4 15 -1.</_>
+                <_>
+                  16 2 2 15 2.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>0.0192226804792881</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.9962785840034485</right_val></_></_></trees>
+      <stage_threshold>0.9962785840034485</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_></stages></bottlecap>
+</opencv_storage>
